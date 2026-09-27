@@ -1,0 +1,6 @@
+{
+  "name": "Web Replicator Studio",
+  "description": "Studio de reproduction et clonage de sites web pixel-perfect avec React et Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
